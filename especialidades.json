@@ -1,0 +1,31 @@
+{
+    "Cardiologia": [
+      {
+        "Nome": "Hospital A",
+        "Tempo Estimado": 30,
+        "Taxa de Ocupação": 10,
+        "Distancia": 5
+      },
+      {
+        "Nome": "Hospital B",
+        "Tempo Estimado": 20,
+        "Taxa de Ocupação": 15,
+        "Distancia": 8
+      }
+    ],
+    "Ortopedia": [
+      {
+        "Nome": "Hospital C",
+        "Tempo Estimado": 25,
+        "Taxa de Ocupação": 12,
+        "Distancia": 3
+      },
+      {
+        "Nome": "Hospital D",
+        "Tempo Estimado": 35,
+        "Taxa de Ocupação": 18,
+        "Distancia": 6
+      }
+    ]
+}
+  
